@@ -1,41 +1,77 @@
-SecureNote — Private Encrypted Workspace
+SecureNote 🔒
 
-SecureNote is a modern privacy-focused note management application designed for users who value security, organization, and clean productivity.
+A modern privacy-focused secure note workspace built for users who value security, organization, and a clean productivity experience.
 
-Built with a sleek premium interface, SecureNote allows users to create, organize, and protect sensitive notes using advanced local security features — all within a fast and distraction-free workspace.
+SecureNote combines encrypted note management, elegant UI design, and offline-first functionality into a single lightweight application.
 
-✨ Key Features
-🔒 Secure note protection system
-🛡️ PIN/password lock authentication
-📁 Folder and tag organization
+✨ Features
+🔐 Secure note protection
+🛡️ Password / PIN authentication
 📝 Markdown editor with live preview
-🖼️ Image attachment support
-🌙 Multiple themes & dark mode
-⚡ Fast local note management
+📁 Folder & tag organization
 🔍 Instant search and filtering
-📌 Pinned notes & color labels
-🗑️ Trash recovery system
+📌 Pinned notes support
+🎨 Multiple themes & appearance customization
+🌙 Dark mode support
+🖼️ Image attachments
+🗑️ Trash & restore system
 ⏱️ Session timeout protection
 📋 Clipboard auto-clear timer
 📊 Security dashboard & audit logs
-💾 Offline-first secure workspace
-🎨 Customizable appearance settings
-🔐 Privacy First
+💾 Offline-first note storage
+⚡ Fast and responsive UI
+🎯 Purpose
 
-SecureNote is designed with a local-first approach, helping users keep their personal notes, passwords, ideas, journals, and confidential information private and under their control.
+SecureNote was created to provide a secure and distraction-free environment for storing:
 
-No cloud dependency. No unnecessary tracking. Just a secure and elegant workspace for your important data.
-
-🎯 Ideal For
-Personal journaling
-Secure note storage
-Password/reference management
-Research organization
+Personal journals
+Sensitive notes
+Password references
+Research materials
 Private documentation
 Offline productivity workflows
-💻 Tech & Design
+🔒 Privacy First
 
-SecureNote combines a premium modern UI with responsive interactions, animated transitions, customizable themes, and productivity-focused workflows to deliver a smooth desktop-style experience directly in the browser.
+SecureNote follows a local-first approach focused on user privacy and control.
+
+Your notes stay with you.
+
+No unnecessary cloud dependency.
+No tracking.
+No data collection.
+
+🎨 UI & Experience
+
+The application features:
+
+Premium modern interface
+Smooth animations
+Custom themes
+Minimalist workspace
+Responsive design
+Productivity-focused layout
+🚀 Technologies Used
+HTML5
+CSS3
+JavaScript
+Local Storage APIs
+Modern UI/UX Design Principles
+📸 Preview
+
+Add screenshots of your app here.
+
+⚠️ Disclaimer
+
+SecureNote is designed for educational and personal productivity purposes.
+Users are responsible for properly managing and backing up their own data.
+
+📄 License
+
+This project is for personal/portfolio use unless otherwise specified.
+
+👤 Author
+
+Developed by Mark Razon
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/23d937dd-9a70-4c45-bb4d-f4c753cb5d13" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/608dee91-f6c0-4d78-8918-187e8279522c" />
